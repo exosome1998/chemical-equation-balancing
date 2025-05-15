@@ -1,0 +1,32 @@
+List of 30 Chemical Equations for Balancing Animation (No Polyatomic Ions):
+
+1. H2 + O2 → H2O
+2. Mg + O2 → MgO
+3. Fe + S → FeS
+4. Al + O2 → Al2O3
+5. Zn + Cl2 → ZnCl2
+6. Na + Cl2 → NaCl
+7. C + O2 → CO2
+8. P4 + O2 → P4O10
+9. Cu + S → Cu2S
+10. K + Br2 → KBr
+11. CH4 + O2 → CO2 + H2O
+12. C2H6 + O2 → CO2 + H2O
+13. Fe + O2 → Fe2O3
+14. N2 + H2 → NH3
+15. Si + O2 → SiO2
+16. Al + CuCl2 → AlCl3 + Cu
+17. Mg + N2 → Mg3N2
+18. C3H8 + O2 → CO2 + H2O
+19. S8 + O2 → SO2
+20. Pb + O2 → PbO
+21. C4H10 + O2 → CO2 + H2O
+22. C5H12 + O2 → CO2 + H2O
+23. FeS2 + O2 → Fe2O3 + SO2
+24. Al + Fe2O3 → Al2O3 + Fe
+25. C6H14 + O2 → CO2 + H2O
+26. P4 + Cl2 → PCl5
+27. As + O2 → As2O5
+28. C7H16 + O2 → CO2 + H2O
+29. Sb + Cl2 → SbCl3
+30. C8H18 + O2 → CO2 + H2O
